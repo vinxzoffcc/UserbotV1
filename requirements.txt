@@ -1,0 +1,11 @@
+pytz
+telethon
+requests
+yt-dlp
+python-dotenv
+aiofiles
+subprocess32
+pillow
+colorama
+aiohttp
+psutil
